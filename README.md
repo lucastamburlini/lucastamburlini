@@ -10,23 +10,17 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 - Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
 
 
-| **Front-End**                 | **Back-End**         | **Base de Datos**  |
-| ------------------------------ | -------------------- | ------------------ |
-| - HTML                         | - Node.js            | - MongoDB          |
-| - CSS                          | - Express            | - PostgreSQL       |
-| - JavaScript                   |                      |                   |
-| - React                        |                      |                   |
-| - Sass                         |                      |                   |
-| - Bootstrap                    |                      |                   |
-| - Material UI                  |                      |                   |
-| - Redux                        |                      |                   |
+| **Front-End**                 | **Back-End**         | **Base de Datos**  | **Diseño**                    | **Metodologías Ágiles**  | **Testing**               | **Herramientas Adicionales** |
+| ------------------------------ | -------------------- | ------------------ | ------------------------------ | ------------------------ | ------------------------ | ---------------------------- |
+| - HTML                         | - Node.js            | - MongoDB          |- Adobe Photoshop             | - Scrum                  | - Testing Exploratorio   | - Jira                      |
+| - CSS                          | - Express            | - PostgreSQL       | - Canva                       |                        | - Metodologías Convencionales | - Postman                |
+| - JavaScript                   |                      |                   |- CorelDRAW                   |                        |                          | - Trello                    |
+| - React                        |                      |                   |- Figma                       |                        |                          |                            |
+| - Sass                         |                      |                   ||||
+| - Bootstrap                    |                      |                   ||||
+| - Material UI                  |                      |                   ||||
+| - Redux                        |                      |                   ||||
 
-| **Diseño**                    | **Metodologías Ágiles**  | **Testing**               | **Herramientas Adicionales** |
-| ------------------------------ | ------------------------ | ------------------------ | ---------------------------- |
-| - Adobe Photoshop             | - Scrum                  | - Testing Exploratorio   | - Jira                      |
-| - Canva                       |                        | - Metodologías Convencionales | - Postman                |
-| - CorelDRAW                   |                        |                          | - Trello                    |
-| - Figma                       |                        |                          |                            |
 
 
 
