@@ -5,9 +5,9 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 ### 📫 Cómo contactarme:
 - Email: lucastamburlini@gmail.com  
 - Celular: +54 9 3442 644674
-- Residencia: Concepción del Uruguay - Entre Ríos - Argentina
 - LinkedIn: [linkedin.com/in/lucasgabrieltamburlini](www.linkedin.com/in/lucasgabrieltamburlini)  
 - Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
+- CV: [Curriculum Vitae]([https://lucastamburlini.vercel.app](https://drive.google.com/file/d/19Sz_Y9fifAdYhSOqQiBEUjiIAvHRSa3S/view?usp=share_link))
 
 
 ### 🛠️ Herramientas y Tecnologías:
