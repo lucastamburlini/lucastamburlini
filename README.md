@@ -27,6 +27,11 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 | - Redux              |                |                   |                    |                        |                         |                            |
 
 
+<p>
+  <a><img src="https://github.com/lucastamburlini/lucastamburlini/edit/main/educaStream.png"></a>
+</p>
 
-
+[![Descripción de la imagen](./educaStream.jpg)](URL_de_tu_página_1)
+[![Descripción de la imagen](./pokeapi.jpg)](URL_de_tu_página_2)
+[![Descripción de la imagen](./rickandmorty.jpg)](URL_de_tu_página_3)
 
