@@ -27,27 +27,12 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 | - Redux              |                |                   |                    |                        |                         |                            |
 
 
+
+
 ### ‼‼ Proyectos destacados:
 
-<table>
-  <tr>
-    <td>
-      <a href="https://educastream.vercel.app/" target="_blank">
-        <img src="./educaStream.jpg" alt="educaStream" width="250">
-      </a>
-    </td>
-    <td>
-      <a href="https://pokeapp-three-beta.vercel.app/" target="_blank">
-        <img src="./pokeapi.jpg" alt="pokeapi" width="2500">
-      </a>
-    </td>
-    <td>
-      <a href="https://rickandmorty-gold.vercel.app/" target="_blank">
-        <img src="./rickandmorty.jpg" alt="rickandmorty" width="250">
-      </a>
-    </td>
-  </tr>
-</table>
+| [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="./pokeapi.jpg" alt="pokeapi" width="250">](https://pokeapp-three-beta.vercel.app/) | [<img src="./rickandmorty.jpg" alt="rickandmorty" width="250">](https://rickandmorty-gold.vercel.app/) |
+|---|---|---|
 
 
 
