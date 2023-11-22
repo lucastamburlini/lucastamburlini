@@ -2,6 +2,7 @@
 
 Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el aprendizaje constante. Mi experiencia abarca tecnologías tanto en el **Front-End** como en el **Back-End**, y también tengo habilidades en diseño y testing.
 
+
 ### 📫 Cómo contactarme:
 
 - Email: lucastamburlini@gmail.com
@@ -10,6 +11,12 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 - Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
 - CV: [Curriculum Vitae](https://drive.google.com/file/d/1Dp-hglqaP6UOjco4-ca6uZck3eh3OQPZ/view?usp=sharing)
 
+
+
+### ✅ Proyectos destacados:
+
+| [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="./pokeapi.jpg" alt="pokeapi" width="250">](https://pokeapp-three-beta.vercel.app/) | [<img src="./rickandmorty.jpg" alt="rickandmorty" width="250">](https://rickandmorty-gold.vercel.app/) |
+|---|---|---|
 
 
 
@@ -25,8 +32,6 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 | - Bootstrap          |                |                   |                    |                        |                         |                            |
 | - Material UI        |                |                   |                    |                        |                         |                            |
 | - Redux              |                |                   |                    |                        |                         |                            |
-
-
 
 
 
