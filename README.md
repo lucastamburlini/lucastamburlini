@@ -9,7 +9,7 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 - Celular: +54 9 3442 644674
 - LinkedIn: [linkedin.com/in/lucasgabrieltamburlini](https://www.linkedin.com/in/lucasgabrieltamburlini)
 - Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
-- CV: [Curriculum Vitae](https://drive.google.com/file/d/1FeNyq0COg0fInJFhVJzmShlUzh7PjLJh/view?usp=sharing)
+- Curriculum Vitae: [Descargar](https://github.com/TuUsuario/TuRepositorio/nombre_del_archivo.pdf)
 
 
 
