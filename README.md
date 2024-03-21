@@ -11,11 +11,6 @@ Soy Lucas, un **Junior Full Stack Developer** apasionado por la tecnología y el
 - Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
 
 
-### ✅ Proyectos destacados:
-
-| [<img src="./educaStream.jpg" alt="educaStream" width="250">](https://educastream.vercel.app/) | [<img src="./pokeapi.jpg" alt="pokeapi" width="250">](https://pokeapp-three-beta.vercel.app/) | [<img src="./rickandmorty.jpg" alt="rickandmorty" width="250">](https://rickandmorty-gold.vercel.app/) |
-|---|---|---|
-
 
 
 ### 🛠️ Herramientas y Tecnologías:
