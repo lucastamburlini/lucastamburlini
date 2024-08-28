@@ -1,12 +1,8 @@
-## ¡Hola! 👋
+## Hi there! 👋
+I'm Lucas, a Full Stack Developer passionate about technology and continuous learning.
 
-Soy Lucas, un **Full Stack Developer** apasionado por la tecnología y el aprendizaje constante.
-
-
-### 📫 Cómo contactarme:
-
-- Email: lucastamburlini@gmail.com
-- Celular: +54 9 3442 644674
-- LinkedIn: [linkedin.com/in/lucasgabrieltamburlini](https://www.linkedin.com/in/lucasgabrieltamburlini)
-- Portafolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
-
+### 📫 How to contact me:
+Email: lucastamburlini@gmail.com
+Phone: +54 9 3442 644674
+LinkedIn: [linkedin.com/in/lucastamburlini](https://www.linkedin.com/in/lucastamburlini)
+Portfolio: [lucastamburlini.vercel.app](https://lucastamburlini.vercel.app)
