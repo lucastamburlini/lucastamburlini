@@ -1,5 +1,5 @@
 ## Hi there! 👋
-I'm Lucas, a Frontend Developer | React | Next.js | TypeScript | passionate about technology and continuous learning.
+I'm Lucas, a Full Stack Developer specialized in Front-end | React | Next.js | TypeScript, passionate about technology and continuous learning.
 
 ### 📫 How to contact me:
 
